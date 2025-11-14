@@ -1,0 +1,17 @@
+[
+    {
+        "id": "AnhuiTV.cn",
+        "name": "Anhui TV",
+        "alt_names": ["安徽卫视"],
+        "network": "Anhui",
+        "owners": ["China Central Television"],
+        "country": "CN",
+        "categories": ["general"],
+        "is_nsfw": false,
+        "launched": "2016-07-28",
+        "closed": "2020-05-31",
+        "replaced_by": "CCTV1.cn",
+        "website": "http://www.ahtv.cn/",
+        "streams":[]
+    }
+]

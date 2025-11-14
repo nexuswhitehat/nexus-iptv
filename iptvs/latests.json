@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Pakistan Sport TV",
+        "country":"PK",
+        "streams":["streamcrichd.com/update/ptv.php"]
+    },
+    {
+        "name":"Start Sports 1",
+        "country":"IN",
+        "streams":["streamcrichd.com/update/star.php"]
+    },
+    {
+        "name":"Start Sports 2",
+        "country":"IN",
+        "streams":["streamcrichd.com/update/star2.php"]
+    },
+    {
+        "name":"Start Sports Hindi",
+        "country":"IN",
+        "streams":["streamcrichd.com/update/star1hi.php"]
+    }
+]
