@@ -48,5 +48,20 @@
         "name":"Sony Ten 1",
         "country":"IN",
         "streams":["https://streamcrichd.com/update/sonyten1.php"]
+    },
+    {
+        "name":"ESPN EN",
+        "country":"US",
+        "streams":["https://streamcrichd.com/update/espn.php"]
+    },
+    {
+        "name":"Sky Sports Cricket",
+        "country":"US",
+        "streams":["https://streamcrichd.com/update/skys2.php"]
+    },
+    {
+        "name":"TNT Sports 2",
+        "country":"US",
+        "streams":["https://streamcrichd.com/update/bt2.php"]
     }
 ]
