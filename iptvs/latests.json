@@ -1,11 +1,5 @@
 [
-    {
-        "name":"FanCode3",
-        "country":"IN",
-        "streams":["https://www.circle-sports.com/live/fancode-3"],
-        "type":"spe",
-        "targetElement":"body > div.d-flex > div.player"
-    },
+    
     {
         "name":"FancodeFake",
         "country":"IN",
