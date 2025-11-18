@@ -1,68 +1,92 @@
 [
-    
+    {
+        "name":"Fackod",
+        "country":"IN",
+        "streams":["https://www.circle-sports.com/live/npl-t20"],
+        "type":"spe"
+    },
+    {
+        "name":"Star Sport Select",
+        "country":"IN",
+        "streams":["https://cricgo.top/player.php?id=criclife3"],
+        "type":"spe"
+    },
     {
         "name":"Pakistan Sport TV",
         "country":"PK",
-        "streams":["https://streamcrichd.com/update/ptv.php"]
+        "streams":["https://streamcrichd.com/update/ptv.php"],
+        "type":"gen"
     },
     {
         "name":"Start Sports 1",
         "country":"IN",
-        "streams":["https://streamcrichd.com/update/star.php"]
+        "streams":["https://streamcrichd.com/update/star.php"],
+        "type":"gen"
     },
     {
         "name":"Start Sports 2",
         "country":"IN",
-        "streams":["https://streamcrichd.com/update/star2.php"]
+        "streams":["https://streamcrichd.com/update/star2.php"],
+        "type":"gen"
     },
     {
         "name":"Start Sports Hindi",
         "country":"IN",
-        "streams":["https://streamcrichd.com/update/star1hi.php"]
+        "streams":["https://streamcrichd.com/update/star1hi.php"],
+        "type":"gen"
     },
     {
         "name":"A Sports",
         "country":"IN",
-        "streams":["https://streamcrichd.com/update/asportshd.php"]
+        "streams":["https://streamcrichd.com/update/asportshd.php"],
+        "type":"gen"
     },
     {
         "name":"Sky Sports 3",
         "country":"NZ",
-        "streams":["https://streamcrichd.com/update/sky3nz.php"]
+        "streams":["https://streamcrichd.com/update/sky3nz.php"],
+        "type":"gen"
     },
     {
         "name":"Ten Sports",
         "country":"PK",
-        "streams":["https://streamcrichd.com/update/tensp.php"]
+        "streams":["https://streamcrichd.com/update/tensp.php"],
+        "type":"gen"
     },
     {
         "name":"Willow Cricket HD",
         "country":"PK",
-        "streams":["https://streamcrichd.com/update/willowcricket.php"]
+        "streams":["https://streamcrichd.com/update/willowcricket.php"],
+        "type":"gen"
     },
     {
         "name":"TNT Sports",
         "country":"UK",
-        "streams":["https://streamcrichd.com/update/bt1.php"]
+        "streams":["https://streamcrichd.com/update/bt1.php"],
+        "type":"gen"
     },
     {
         "name":"Sony Ten 1",
         "country":"IN",
-        "streams":["https://streamcrichd.com/update/sonyten1.php"]
+        "streams":["https://streamcrichd.com/update/sonyten1.php"],
+        "type":"gen"
     },
     {
         "name":"ESPN EN",
         "country":"US",
-        "streams":["https://streamcrichd.com/update/espn.php"]
+        "streams":["https://streamcrichd.com/update/espn.php"],
+        "type":"gen"
     },
     {
         "name":"Sky Sports Cricket",
         "country":"US",
-        "streams":["https://streamcrichd.com/update/skys2.php"]
+        "streams":["https://streamcrichd.com/update/skys2.php"],
+        "type":"gen"
     },
     {
         "name":"TNT Sports 2",
         "country":"US",
-        "streams":["https://streamcrichd.com/update/bt2.php"]
+        "streams":["https://streamcrichd.com/update/bt2.php"],
+        "type":"gen"
     }
 ]
