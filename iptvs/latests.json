@@ -6,12 +6,6 @@
         "type":"spe"
     },
     {
-        "name":"Star Sport Select",
-        "country":"IN",
-        "streams":["https://cricgo.top/player.php?id=criclife3"],
-        "type":"spe"
-    },
-    {
         "name":"Pakistan Sport TV",
         "country":"PK",
         "streams":["https://streamcrichd.com/update/ptv.php"],
