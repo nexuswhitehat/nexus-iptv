@@ -1,18 +1,5 @@
 [
-    {
-        "name":"Stream TV Kick",
-        "country":"IN",
-        "streams":["https://allstreams.tv/kick/studybro"],
-        "type":"spe",
-        "targetElement":"body > main > div.fixed > div.hide-scrollbar > div.flex-col"
-    },
-    {
-        "name":"Fancode OTT",
-        "country":"IN",
-        "streams":["https://www.circle-sports.com/live/npl-t20"],
-        "type":"spe",
-        "targetElement":"body > div.d-flex > div.player"
-    },
+    
     {
         "name":"Pakistan Sport TV",
         "country":"PK",
