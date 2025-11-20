@@ -1,13 +1,6 @@
 [
     
     {
-        "name":"Fancode OTT",
-        "country":"IN",
-        "streams":["https://www.circle-sports.com/live/npl-t20"],
-        "type":"spe",
-        "targetElement":"body > div.d-flex > div.player"
-    },
-    {
         "name":"Pakistan Sport TV",
         "country":"PK",
         "streams":["https://streamcrichd.com/update/ptv.php"],
