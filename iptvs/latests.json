@@ -1,6 +1,15 @@
 [
     {
-        "name": "Stream TV Kick",
+        "name": "Stream TV NPL 1",
+        "country": "IN",
+        "streams": [
+            "https://kick.com/cricketchat"
+        ],
+        "type": "spe",
+        "targetElement": "body > div.h-xvh > div.w-xvw > div.bg-surface-lower > main.w-xvw > div.w-xvw > div.aspect-video > div"
+    },
+    {
+        "name": "KICK NPL 2",
         "country": "IN",
         "streams": [
             "https://kick.com/studybro"
