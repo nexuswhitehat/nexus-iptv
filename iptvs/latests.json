@@ -1,94 +1,137 @@
 [
-    
     {
-        "name":"Pakistan Sport TV",
-        "country":"PK",
-        "streams":["https://streamcrichd.com/update/ptv.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Stream TV Kick",
+        "country": "IN",
+        "streams": [
+            "https://allstreams.tv/kick/studybro"
+        ],
+        "type": "spe",
+        "targetElement": "body > main > div.fixed > div.hide-scrollbar > div.flex-col"
     },
     {
-        "name":"Start Sports 1",
-        "country":"IN",
-        "streams":["https://streamcrichd.com/update/star.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Fancode OTT",
+        "country": "IN",
+        "streams": [
+            "https://www.circle-sports.com/live/npl-t20"
+        ],
+        "type": "spe",
+        "targetElement": "body > div.d-flex > div.player"
     },
     {
-        "name":"Start Sports 2",
-        "country":"IN",
-        "streams":["https://streamcrichd.com/update/star2.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Pakistan Sport TV",
+        "country": "PK",
+        "streams": [
+            "https://streamcrichd.com/update/ptv.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"Start Sports Hindi",
-        "country":"IN",
-        "streams":["https://streamcrichd.com/update/star1hi.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Start Sports 1",
+        "country": "IN",
+        "streams": [
+            "https://streamcrichd.com/update/star.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"A Sports",
-        "country":"IN",
-        "streams":["https://streamcrichd.com/update/asportshd.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Start Sports 2",
+        "country": "IN",
+        "streams": [
+            "https://streamcrichd.com/update/star2.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"Sky Sports 3",
-        "country":"NZ",
-        "streams":["https://streamcrichd.com/update/sky3nz.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Start Sports Hindi",
+        "country": "IN",
+        "streams": [
+            "https://streamcrichd.com/update/star1hi.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"Ten Sports",
-        "country":"PK",
-        "streams":["https://streamcrichd.com/update/tensp.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "A Sports",
+        "country": "IN",
+        "streams": [
+            "https://streamcrichd.com/update/asportshd.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"Willow Cricket HD",
-        "country":"PK",
-        "streams":["https://streamcrichd.com/update/willowcricket.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Sky Sports 3",
+        "country": "NZ",
+        "streams": [
+            "https://streamcrichd.com/update/sky3nz.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"TNT Sports",
-        "country":"UK",
-        "streams":["https://streamcrichd.com/update/bt1.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Ten Sports",
+        "country": "PK",
+        "streams": [
+            "https://streamcrichd.com/update/tensp.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"Sony Ten 1",
-        "country":"IN",
-        "streams":["https://streamcrichd.com/update/sonyten1.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Willow Cricket HD",
+        "country": "PK",
+        "streams": [
+            "https://streamcrichd.com/update/willowcricket.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"ESPN EN",
-        "country":"US",
-        "streams":["https://streamcrichd.com/update/espn.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "TNT Sports",
+        "country": "UK",
+        "streams": [
+            "https://streamcrichd.com/update/bt1.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"Sky Sports Cricket",
-        "country":"US",
-        "streams":["https://streamcrichd.com/update/skys2.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "Sony Ten 1",
+        "country": "IN",
+        "streams": [
+            "https://streamcrichd.com/update/sonyten1.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     },
     {
-        "name":"TNT Sports 2",
-        "country":"US",
-        "streams":["https://streamcrichd.com/update/bt2.php"],
-        "type":"gen",
-        "targetElement":""
+        "name": "ESPN EN",
+        "country": "US",
+        "streams": [
+            "https://streamcrichd.com/update/espn.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
+    },
+    {
+        "name": "Sky Sports Cricket",
+        "country": "US",
+        "streams": [
+            "https://streamcrichd.com/update/skys2.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
+    },
+    {
+        "name": "TNT Sports 2",
+        "country": "US",
+        "streams": [
+            "https://streamcrichd.com/update/bt2.php"
+        ],
+        "type": "gen",
+        "targetElement": ""
     }
 ]
