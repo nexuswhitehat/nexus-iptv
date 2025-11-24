@@ -6,7 +6,7 @@
             "https://kick.com/studybro"
         ],
         "type": "spe",
-        "targetElement": "body > div.h-xvh > div.w-xvw > div.bg-surface-lower > main.w-xvw > div.w-xvw > div.max-w-full > div > div.h-full > div.w-full > video"
+        "targetElement": "video"
     },
     {
         "name": "Fancode OTT",
