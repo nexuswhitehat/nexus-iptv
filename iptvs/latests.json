@@ -3,10 +3,10 @@
         "name": "Stream TV Kick",
         "country": "IN",
         "streams": [
-            "https://allstreams.tv/kick/studybro"
+            "https://kick.com/studybro"
         ],
         "type": "spe",
-        "targetElement": "body > main > div.fixed > div.hide-scrollbar > div.flex-col"
+        "targetElement": "body > div.h-xvh > div.w-xvw > div.bg-surface-lower > main.w-xvw > div.w-xvw > div.max-w-full > div > div.h-full > div.w-full > video"
     },
     {
         "name": "Fancode OTT",
