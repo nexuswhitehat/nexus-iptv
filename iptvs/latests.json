@@ -1,14 +1,5 @@
 [
     {
-        "name": "KICK NPL 1",
-        "country": "IN",
-        "streams": [
-            "https://kick.com/cricketchat"
-        ],
-        "type": "spe",
-        "targetElement": "body > div.h-xvh > div.w-xvw > div.bg-surface-lower > main.w-xvw > div.w-xvw > div.aspect-video > div"
-    },
-    {
         "name": "Fancode NPL T20",
         "country": "IN",
         "streams": [
